@@ -4,11 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="joxdE5Ivh4seaB0Sh-1f-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="joxdE5Ivh4seaB0Sh-1f-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="IDLE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="80" width="60" height="40" as="geometry" />
+          <mxGeometry x="430" y="50" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="joxdE5Ivh4seaB0Sh-1f-0" value="WB_MULT_RES_C0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="180" width="130" height="40" as="geometry" />
+          <mxGeometry x="210" y="160" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="joxdE5Ivh4seaB0Sh-1f-1" value="WB_MULT_RES_C1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="260" width="130" height="40" as="geometry" />
