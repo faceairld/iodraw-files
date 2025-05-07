@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qPIgW_sZSPJTMD1j9-AL-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPIgW_sZSPJTMD1j9-AL-43">
+        <mxCell id="qPIgW_sZSPJTMD1j9-AL-44" value="rns_num = 16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPIgW_sZSPJTMD1j9-AL-43">
           <mxGeometry x="-0.752" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
