@@ -152,7 +152,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qPIgW_sZSPJTMD1j9-AL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.317;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qPIgW_sZSPJTMD1j9-AL-33" target="qPIgW_sZSPJTMD1j9-AL-36">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="340" />
+              <mxPoint x="164" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qPIgW_sZSPJTMD1j9-AL-42" value="rns_num = 3,4,5……" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qPIgW_sZSPJTMD1j9-AL-41">
+          <mxGeometry x="-0.426" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
