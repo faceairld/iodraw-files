@@ -22,7 +22,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PUlDtkq3zmyYMs1CTqXZ-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;RS&amp;amp;&amp;amp;(CKKS_MULTIPLY||&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;N23hNiVDLsx9M1kr_mmh&quot;&gt;CKKS_SQUARE)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PUlDtkq3zmyYMs1CTqXZ-13" vertex="1" connectable="0">
+        <mxCell id="PUlDtkq3zmyYMs1CTqXZ-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;RS&amp;amp;&amp;amp;(CKKS_MULTIPLY||&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;CKKS_SQUARE)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PUlDtkq3zmyYMs1CTqXZ-13" vertex="1" connectable="0">
           <mxGeometry x="-0.0028" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -107,7 +107,7 @@
         <mxCell id="PUlDtkq3zmyYMs1CTqXZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="PUlDtkq3zmyYMs1CTqXZ-7" target="PUlDtkq3zmyYMs1CTqXZ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PUlDtkq3zmyYMs1CTqXZ-26" value="RD_KEY_CNT = KEY_NUM &amp;amp;&amp;amp;&amp;nbsp;&lt;div&gt;(CKKS_MULTIPLY || CKKS_SUQARE)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PUlDtkq3zmyYMs1CTqXZ-24" vertex="1" connectable="0">
+        <mxCell id="PUlDtkq3zmyYMs1CTqXZ-26" value="&lt;font face=&quot;Times New Roman&quot;&gt;RD_KEY_CNT = KEY_NUM &amp;amp;&amp;amp;&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;(CKKS_MULTIPLY || CKKS_SUQARE)&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PUlDtkq3zmyYMs1CTqXZ-24" vertex="1" connectable="0">
           <mxGeometry x="0.15" y="2" relative="1" as="geometry">
             <mxPoint x="-2" y="-3" as="offset" />
           </mxGeometry>
