@@ -7,7 +7,7 @@
         <mxCell id="joxdE5Ivh4seaB0Sh-1f-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="joxdE5Ivh4seaB0Sh-1f-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="joxdE5Ivh4seaB0Sh-1f-7" value="CKKS_MULTIPLY&lt;br&gt;CKKS_SQUARE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="joxdE5Ivh4seaB0Sh-1f-6" vertex="1" connectable="0">
+        <mxCell id="joxdE5Ivh4seaB0Sh-1f-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;CKKS_MULTIPLY&lt;br&gt;CKKS_SQUARE&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="joxdE5Ivh4seaB0Sh-1f-6" vertex="1" connectable="0">
           <mxGeometry x="0.5701" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -48,7 +48,7 @@
             <mxPoint x="620.0700000000002" y="160.00000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="joxdE5Ivh4seaB0Sh-1f-11" value="CKKS_SQUARE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="joxdE5Ivh4seaB0Sh-1f-10" vertex="1" connectable="0">
+        <mxCell id="joxdE5Ivh4seaB0Sh-1f-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;CKKS_SQUARE&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="joxdE5Ivh4seaB0Sh-1f-10" vertex="1" connectable="0">
           <mxGeometry x="0.5804" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
